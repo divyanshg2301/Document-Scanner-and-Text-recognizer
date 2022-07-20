@@ -1,0 +1,70 @@
+12/19
+42019 Provisional Receipt
+5
+
+grass
+
+ 
+
+Provisional Receipt
+IIT Kanpur Academic Provisional Fees Receipt
+
+Enrollment Number :
+180268
+
+Name:
+
+GAVISH SARAF
+Programme :
+
+B TECH
+
+Branch :
+
+ME
+
+Hostel Hall :
+
+H3
+
+Hostel Room °
+
+B-117
+
+Email :
+gavish@litk.ac.in
+Mobile :
+
+9414079347
+Application Fees (ln Rs.Ps)
+48283
+
+Payment Date :
+19-12-2019 12:06:44
+IITK Ref. No:
+
+132831
+Gateway Transaction ID :
+
+2070006274
+Transaction Status :
+
+Success
+
+Note:
+
+* This is a provisional transaction reciept. The final one will be updated/Mailed and available on your
+portal for download after bank MIS reconciliation, it will take upto 2-3 working days.
+« Ifamount is deducted from your account and trarisaction is failed, please do not pay again wait for the
+
+MIS reconciliation.
+
+ 
+ 
+ 
+
+11
+
+ 
+
+‘, ttps://pingala.litk.ac.in/IITK-0/OnlinePaymentReceiveAxis?Merchant_code=IIT_KANPUR&applicant_name=GAVISH+SARAF++8email_id=gavis...
